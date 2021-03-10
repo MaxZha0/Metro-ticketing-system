@@ -1,5 +1,6 @@
 # Metro-ticketing-system
 
+![mts](https://github.com/MaxZha0/Metro-ticketing-system/blob/main/image/mts.png)
 ## MTS是什么
 天津地铁自助购票系统，一个自己练手写的垃圾java小程序
 
